@@ -1,5 +1,6 @@
 # GTAA
 Meb Faber's Global Tactical Asset Allocation, Replication
+# from: [matReturns.com](https://matReturns.com)
 
 
 # Global Tactical Asset Allocation (GTAA) Strategy Replication
